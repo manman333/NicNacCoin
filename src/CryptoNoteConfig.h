@@ -98,7 +98,7 @@ const char     CRYPTONOTE_BLOCKINDEXES_FILENAME[]            = "blockindexes.bin
 const char     CRYPTONOTE_POOLDATA_FILENAME[]                = "poolstate.bin";
 const char     P2P_NET_DATA_FILENAME[]                       = "p2pstate.bin";
 const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "52ce3b2bdd84e1fafca8b4c9986ed6ce5b975b7d6b9cedb86cff00dd4feff6a";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001f7f5f8bab2c601029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210196b22738c1c8af33fca8324c0ef0adb99d9e0f060ea0e0e65a222240c046ef14";
 } // parameters
 
 const char     CRYPTONOTE_NAME[]                             = "nicnac";
